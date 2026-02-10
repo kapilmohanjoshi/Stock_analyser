@@ -1,0 +1,7 @@
+# Stock Price Analyzer 📈
+
+A Streamlit app to fetch real-time stock prices using yfinance.
+
+## Run locally
+pip install -r requirements.txt
+streamlit run stock_price_analyzer_streamlit.py
